@@ -1,0 +1,4 @@
+TAG=14.30.1
+DB_HOST=192.168.1.10
+DB_PORT=3306
+SITE=erp.example.com
